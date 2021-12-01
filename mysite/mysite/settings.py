@@ -122,7 +122,7 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 EMAIL_HOST = 'smtp.mail.yahoo.com'
-EMAIL_HOST_USER = 'robert_melen@yahoo.co.uk'
-EMAIL_HOST_PASSWORD = 'cuik lvuk ovvd uich'
+EMAIL_HOST_USER = '**********'
+EMAIL_HOST_PASSWORD = '***********'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
